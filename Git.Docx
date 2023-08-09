@@ -1,6 +1,5 @@
 git init
 git add .
-git commit -m "first commit"
+git commit -m "Clock"
 git branch -M main
-git remote add origin https://github.com/Usio77/Usio77.git
 git push -u origin main
