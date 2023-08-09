@@ -1,5 +1,5 @@
 git init
 git add .
-git commit -m "Clock"
+git commit -m "rose"
 git branch -M main
 git push -u origin main
