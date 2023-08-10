@@ -2,11 +2,12 @@ import turtle
 
 import time
 
+#speed
 turtle.speed(5) 
 
   
 
-
+#Drawing
 turtle.penup()
 
 turtle.left(90)  
@@ -21,7 +22,7 @@ turtle.right(90)
 turtle.pensize(2)
 
 
-
+#Drawing
 
 turtle.fillcolor("red")  
 
@@ -78,7 +79,7 @@ turtle.circle(150,90)
 turtle.end_fill()  
    
 
-
+#Drawing
 turtle.left(150)  
 
 turtle.circle(-90,70)  
@@ -107,7 +108,7 @@ turtle.setheading(-83)
 
   
 
-
+#Drawing
 
 turtle.fd(30)  
 
@@ -145,7 +146,7 @@ turtle.fd(80)
 
    
 
-
+#Drawing
 turtle.right(90)  
 
 turtle.right(45)  
