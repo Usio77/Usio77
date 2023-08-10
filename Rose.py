@@ -2,7 +2,7 @@ import turtle
 
 import time
 
-#speed
+# in
 turtle.speed(5) 
 
   
